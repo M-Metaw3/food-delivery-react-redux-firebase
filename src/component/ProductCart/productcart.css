@@ -1,0 +1,334 @@
+.floatty {
+    /* position: absolute; */
+    /* right: 00px;
+    z-index: 1;
+    padding: 18px;
+    margin: 30px auto;
+    background-color: rgb(230, 230, 230);
+    border-radius: 10%;
+    border: 10px rgb(223, 100, 29) solid;
+    width: 30%;
+    height: 100vh;
+    overflow-y: scroll;
+     */
+     overflow-y: scroll;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 30%;
+    height: 100%;
+    background-color: white;
+    z-index: 1;
+    text-align: center;
+    padding: 0 20px ;
+
+}
+
+.styler-0 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 16px;
+    padding-bottom: 16px; */
+    height: 128px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px 0px 12px;
+}
+
+.styler-1 {
+    column-gap: 16px;
+    align-items: center;
+    width: 100%;
+    height: 96px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px;
+    border-radius: 8px;
+}
+
+.styler-2 {
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    margin: 0px;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    margin: 0px;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+}
+
+.styler-3 {
+    box-sizing: border-box;
+    display: block;
+    max-width: 100%;
+    display: block;
+    max-width: 100%;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px;
+}
+
+.styler-4 {
+    max-width: 100%;
+    display: block;
+    margin: 0px;
+    border: none;
+    padding: 0px;
+    display: block;
+    margin: 0px;
+    border: 0px none rgb(0, 0, 0);
+    padding: 0px;
+    height: auto;
+    vertical-align: middle;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+.styler-5 {
+    position: absolute;
+    inset: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    border: none;
+    margin: auto;
+    display: block;
+    width: 0px;
+    height: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    inset: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    border: 0px none rgb(0, 0, 0);
+    margin: auto;
+    display: block;
+    width: 0px;
+    height: 67.6094px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    background-size: cover;
+    vertical-align: middle;
+    font-family: Roboto;
+}
+
+.styler-6 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+}
+
+.styler-7 {
+    justify-content: space-between;
+    flex-direction: column;
+    width: 100%;
+    height: 96px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px;
+}
+
+.styler-8 {
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px;
+}
+
+.styler-9 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    color: rgb(13, 17, 54);
+    margin-bottom: 0px;
+    line-height: 24px;
+    font-family: Roboto;
+    margin: 0px;
+}
+
+.styler-10 {
+    padding: 8px;
+    background-color: rgb(209, 213, 219);
+    border-radius: 28px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px;
+}
+
+.styler-11 {
+    color: rgb(255, 95, 0);
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    user-select: none;
+    width: 10px;
+    height: 10px;
+    fill: rgb(255, 95, 0);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 5px;
+    font-family: Roboto;
+}
+
+.styler-12 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+}
+
+.styler-13 {
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 56px;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px;
+}
+
+.styler-14 {
+    color: rgb(28, 28, 27);
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px;
+}
+
+.styler-15 {
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    background-color: rgb(255, 95, 0);
+    border-radius: 6px;
+    overflow: hidden;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+    display: flex;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0px;
+}
+
+.styler-16 {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    border-style: none;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    appearance: button;
+    background-image: none;
+    text-transform: none;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(229, 231, 235);
+}
+
+.styler-17 {
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    user-select: none;
+    width: 1em;
+    height: 24px;
+    fill: rgb(255, 255, 255);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 24px;
+    font-family: Roboto;
+}
+
+.styler-18 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+}
+
+.styler-19 {
+    margin-left: 8px;
+    margin-right: 8px;
+    pointer-events: none;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+}
+
+.styler-20 {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0);
+    border-style: none;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    appearance: button;
+    background-image: none;
+    text-transform: none;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin: 0px;
+    box-sizing: border-box;
+    border: 0px none rgb(229, 231, 235);
+}
+
+.styler-21 {
+    display: block;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    user-select: none;
+    width: 1em;
+    height: 24px;
+    fill: rgb(255, 255, 255);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 24px;
+    font-family: Roboto;
+}
+
+.styler-22 {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+}

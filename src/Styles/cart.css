@@ -1,0 +1,414 @@
+* {
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+    font-family: Roboto;
+    margin: 0;
+}
+
+.inpot {
+    width: 25px;
+}
+
+.style-0 {
+    width: 85%;
+    padding: 32px;
+    border-radius: 10px;
+    background-color: rgb(213, 213, 213);
+    margin: 0 auto;
+}
+
+.style-1 {
+    padding: 11px 16px;
+    display: grid;
+    grid-template-columns: 424.312px 130.547px 97.9062px 130.547px;
+}
+
+.style-2 {
+    display: flex;
+    min-width: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.style-3 {
+    color: rgb(28, 28, 27);
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+
+}
+
+.style-4 {
+    /* font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 21px;
+    display: flex;
+    min-width: 0px;
+    margin: 0px 8px;
+    background-color: rgb(28, 28, 27);
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center; */
+
+    background-color: rgb(28, 28, 27);
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    /* font-size: 0.8rem; */
+    font-weight: 700;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
+
+.style-5 {
+    font-style: normal;
+    font-variant: normal;
+    font-stretch: 100%;
+    line-height: 24px;
+    text-align: center;
+    color: rgb(112, 112, 112);
+    font-size: 16px;
+    font-weight: 700;
+    font-weight: bold;
+}
+
+.style-6,
+button {
+    font-style: normal;
+    font-variant: normal;
+    font-stretch: 100%;
+    line-height: 24px;
+    text-align: center;
+    color: rgb(112, 112, 112);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.style-7 {
+    display: grid;
+    grid-template-columns: 433.109px 151.953px 127.719px;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 8px;
+    margin: 0px 0px 8px;
+}
+
+.style-8 {
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    flex-wrap: nowrap;
+    display: flex;
+    gap: 0px;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.style-9 {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    display: flex;
+    min-width: 0px;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.style-10 {
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    box-sizing: border-box;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-11 {
+    box-sizing: border-box;
+    display: block;
+    max-width: 100%;
+    display: block;
+    max-width: 100%;
+    border: 0px solid rgb(229, 231, 235);
+}
+
+.style-12 {
+    max-width: 50%;
+    display: block;
+    border: none;
+    padding: 0px;
+    display: block;
+    border: 0px none rgb(0, 0, 0);
+    padding: 0px;
+    height: auto;
+    vertical-align: middle;
+    box-sizing: border-box;
+}
+
+.style-13 {
+    position: absolute;
+    inset: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    border: none;
+    margin: auto;
+    display: block;
+    width: 0px;
+    height: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    inset: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+    border: 0px none rgb(0, 0, 0);
+    margin: auto;
+    display: block;
+    width: 0px;
+    height: 60px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    vertical-align: middle;
+}
+
+.style-14 {}
+
+.style-15 {
+    display: flex;
+    min-width: 0px;
+    flex-direction: column;
+}
+
+.style-16 {
+    padding-top: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-stretch: 100%;
+    line-height: 24px;
+    color: rgb(28, 28, 27);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.style-17 {
+    color: rgba(112, 112, 112, 0.7);
+    padding-bottom: 12px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 24px;
+    font-size: 16px;
+    margin-left: 5px;
+    margin: 0px 0px 0px 5px;
+}
+
+.style-18 {
+    display: flex;
+    min-width: 0px;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.style-19 {
+    display: flex;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 200px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    overflow: hidden;
+    flex-shrink: 0;
+    width: 143px;
+    height: 36px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(13, 17, 54);
+}
+
+.style-20 {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    cursor: pointer;
+    appearance: button;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    text-transform: none;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.5px;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    box-sizing: border-box;
+    border: 0px none rgb(255, 95, 0);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 36px;
+}
+
+.style-21 {
+    display: block;
+    vertical-align: middle;
+    user-select: none;
+    width: 1em;
+    height: 24px;
+    fill: rgb(0, 0, 0);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 24px;
+}
+
+.style-22 {}
+
+.style-23 {
+    pointer-events: none;
+}
+
+.style-24 {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    cursor: pointer;
+    appearance: button;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    text-transform: none;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 22.5px;
+    color: rgb(255, 95, 0);
+    padding: 10px;
+    box-sizing: border-box;
+    border: 0px none rgb(255, 95, 0);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 36px;
+}
+
+.style-25 {
+    display: block;
+    vertical-align: middle;
+    user-select: none;
+    width: 1em;
+    height: 24px;
+    fill: rgb(255, 95, 0);
+    flex-shrink: 0;
+    transition: fill 0.2s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    font-size: 24px;
+}
+
+.style-26 {}
+
+.style-27 {
+    display: flex;
+    min-width: 0px;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.style-28 {}
+/* 
+.addTOCart__btn {
+    background-color: #ff5f00;
+    border: 2px solid rgba(27, 31, 35, .15);
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+} */
+.all__btn {
+    background-color: #ff5f00;
+    border: 2px solid rgba(27, 31, 35, .15);
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: white;
+    margin: 25px 0 25px;
+}
+
+/************************/
+
+input[type="number"] {
+    -webkit-appearance: textfield;
+    -moz-appearance: textfield;
+    appearance: textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+}
+
+.number-input {
+    border: 2px solid #ddd;
+    display: inline-flex;
+}
+
+.number-input,
+.number-input * {
+    box-sizing: border-box;
+}
+
+.number-input button {
+    outline: none;
+    -webkit-appearance: none;
+    background-color: transparent;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    width: 3rem;
+    height: 3rem;
+    cursor: pointer;
+    margin: 0;
+    position: relative;
+}
+
+.number-input button:after {
+    display: inline-block;
+    position: absolute;
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: '\f077';
+    transform: translate(-50%, -50%) rotate(180deg);
+}
+
+.number-input button.plus:after {
+    transform: translate(-50%, -50%) rotate(0deg);
+}
+
+.number-input input[type=number] {
+    font-family: sans-serif;
+    max-width: 5rem;
+    padding: .5rem;
+    border: solid #ddd;
+    border-width: 0 2px;
+    font-size: 2rem;
+    height: 3rem;
+    font-weight: bold;
+    text-align: center;
+    width: 57px;
+}

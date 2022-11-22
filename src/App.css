@@ -1,0 +1,160 @@
+.add_item{
+  margin: 5px;
+}
+.select_cat select{
+  /* padding: 7px 15px;
+  border: 1px solid #f8f5f4;*/
+  border-radius: 5px;
+  cursor: pointer; 
+  padding: 7px;
+  margin-bottom: 10px;
+  width: 20%;
+}
+.select_cat label{
+ padding: 7px;
+ margin-bottom: 10px;
+ font-size: 18px;
+
+}
+
+.succefull{
+ text-transform: capitalize;
+ margin: auto;
+}
+.succefull span{
+  color: #ff5f00;
+  
+  text-shadow:5px 5px 50px #ff5f00;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bt{
+ /* width: 70%; */
+ margin: auto;
+  margin-top: 10px;
+  padding: 10px;
+ 
+}
+.bt:hover{
+  background-color: #ca4a00;
+  transition: 0.5s;
+  transform: scale(1.25);
+}
+.cont{
+  display:flex;
+  flex-direction:column;
+  width:80% ;
+
+margin-left: auto;
+margin-right: auto;
+/* justify-content: center; */
+margin-top: 10px;
+text-align: center;
+font-size: 15px;
+color: #000000;
+
+
+}
+.cont input{
+  padding: 7px;
+  border-bottom: 2px solid rgb(180, 179, 179);
+  margin-bottom: 10px;
+ 
+}
+.mmm{
+width: 100%;
+height: 20vh;
+display: flex;
+text-align: center;
+justify-content: space-around;
+align-items: center;
+margin-right: auto;
+margin-right: auto;
+overflow: hidden;
+
+}
+.mmm h1{
+  width: 25%;
+}
+.mmm h3{
+  width: 25%;
+}
+.mmm image{
+  width: 25%;
+}
+.mmm button{
+width:20% ;  
+}
+.aaa {
+
+}
+
+/* admin style  */
+.sidebar {
+  /* height: 660px; */
+  width: 100%;
+  border-radius: 21px;
+  background-color: #ffffff;
+}
+.sidebar a.active{
+  color: #ff5f00;
+}
+.box-container{
+  display: flex;
+
+  /* flex-direction: row; */
+  flex-wrap: wrap;
+width: 100%;}
+.box{
+
+  word-break:break-all;
+
+  /* flex-direction: row; */
+  display: inline-block;
+ /* flex:1 1 30rem; */
+ text-align: center; 
+  border:.1rem solid rgba(134, 101, 11, 0.1);
+  border-radius: .5rem;
+  background:#ffffff;
+  padding:10px; 
+  width: 20%;
+  height: 10%; 
+}
+ .box img{
+  border-radius: 50%;
+  object-fit: cover;
+  /* height:15rem;
+  width:15rem;
+  margin:1rem 0; */
+}
+ .box h3{
+  font-size:20px;
+  color:var(--black);
+}
+ .box p{
+  font-size: 10px;
+  color:#666;
+  padding:1rem 0;
+}
+.contupdating{
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+.contupdating div{
+
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.contupdating div input{
+  margin: 5px;
+  width: 100%;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+.contupdating p {
+  text-align: center;
+  font-size: large;
+  color: #ff5f00;
+}

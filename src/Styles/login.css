@@ -1,0 +1,68 @@
+.container{
+    width: 100%;
+}
+.myform{
+    background-color: #f4f4f4d9
+}
+.login{
+    font-size: 250%;
+    font-family:  "Times New Roman", Times, serif;
+    color: black;
+    font-weight:900;
+    margin: 20px 0 30px;
+    
+}
+.pLogin{
+    letter-spacing: 0.05em
+}
+.inputLogin{
+    padding:7px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 0;
+    width: 300px;
+    z-index: 50;
+    background-color: transparent;
+    border-bottom: 2px solid rgb(180, 179, 179);
+
+}
+.buttonLogin{
+    width:  auto;
+    min-width:  100px;
+    border-radius:  18px; 
+    text-align:  center; 
+    padding:  10px 20px;
+    margin-top:  5px; 
+    color: black;
+}
+.forget{
+padding: 10px;
+
+}
+.forget a{
+    color: black;
+}
+.iconLogin{
+    font-size: 50px;
+    cursor: pointer;
+    padding: 10px;
+}
+.profile{
+    border-radius: 8px;
+    position: relative;
+    padding: 14px 18px;
+    box-sizing: border-box;
+    display: table-cell;
+    /* height: 100%; */
+    width: 156px;
+    border:rgb(85, 82, 82) solid ;
+    margin-bottom: 20px;
+    
+}
+.profile a{
+    text-decoration: none;
+}
+.createAccount{
+    margin-bottom: 50px;
+   height: auto;
+}

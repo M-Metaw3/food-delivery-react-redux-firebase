@@ -1,0 +1,13 @@
+.d-none{
+    float: right;
+}
+.inputimage{
+    padding:7px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border: 0;
+    width: 300px;
+    z-index: 50;
+    background-color: transparent;
+    /* border-bottom:   rgb(180, 179, 179); */
+}
